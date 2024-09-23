@@ -1,53 +1,51 @@
-#main{
-    text-align: center;
-    padding: 40vh 0px;
-    background-image: url("https://preview.colorlib.com/theme/hiroto/img/hero.jpg.webp");
+#main {
+  text-align: center;
+  padding: 40vh 0px;
+  background-image: url("https://preview.colorlib.com/theme/hiroto/img/hero.jpg.webp");
 }
 
-#main > h3{
-    color: goldenrod;
+#main > h3 {
+  color: goldenrod;
 }
-#main > h1{
-    width: 40vw;
-    margin: 20px auto;
-    font-size: 50px;
-    color: white;
+#main > h1 {
+  width: 40vw;
+  margin: 20px auto;
+  font-size: 50px;
+  color: white;
 }
 
 #main > div {
-    display: flex;
-    background-color: white;
-    width: 80%;
-    margin: auto;
-
+  display: flex;
+  background-color: white;
+  width: 80%;
+  margin: auto;
 }
 
-
-
-#input-unit{
-    flex-grow: 1;
-    display: flex;
-    gap: 10%;
-    margin: 20px;
+#input-unit {
+  flex-grow: 1;
+  display: flex;
+  gap: 10%;
+  margin: 20px;
 }
 
-#main > div > div > div > label{
-    display: block;
-    text-align: left;
-    margin: 20px 0px;
+#main > div > div > div > label {
+  display: block;
+  text-align: left;
+  margin: 20px 0px;
 }
 
-#book-now{
-    color: white;
-    background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-    cursor: pointer;
+#book-now {
+  color: white;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  cursor: pointer;
 }
 
-input, select{
-    padding: 10px;
-    cursor: pointer;
+input,
+select {
+  padding: 10px;
+  cursor: pointer;
 }
