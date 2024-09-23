@@ -45,3 +45,9 @@ footer{
     cursor: pointer;
     border-radius: 2px;
 }
+
+#footer-foot{
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+}
